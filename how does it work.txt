@@ -1,0 +1,5 @@
+need to collect dll and exe into one file - using python?
+make this output file as a service - using nssm
+now need program which deploy the service and run the command which insert it as aservice to system
+
+how does the computer will know to run the service any login??

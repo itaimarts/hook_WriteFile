@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+c:\users\itai marts\desktop\mini-project\hookwritefiledll\hookcreatefiledll\dllmain.cpp(32): warning C4101: 'name': unreferenced local variable
+c:\users\itai marts\desktop\mini-project\hookwritefiledll\hookcreatefiledll\dllmain.cpp(35): warning C4101: 'i': unreferenced local variable
+c:\users\itai marts\desktop\mini-project\hookwritefiledll\hookcreatefiledll\dllmain.cpp(36): warning C4101: 'DataBuffer': unreferenced local variable
+c:\users\itai marts\desktop\mini-project\hookwritefiledll\hookcreatefiledll\dllmain.cpp(34): warning C4101: 'logger': unreferenced local variable
+  HookCreateFileDLL.vcxproj -> C:\Users\itai marts\Desktop\Mini-Project\HookWriteFileDLL\Debug\HookCreateFileDLL.dll
+  HookCreateFileDLL.vcxproj -> C:\Users\itai marts\Desktop\Mini-Project\HookWriteFileDLL\Debug\HookCreateFileDLL.pdb (Full PDB)
